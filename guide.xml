@@ -1,0 +1,2700 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL FHD">
+    <display-name lang="pt">DISCOVERY CHANNEL FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX FHD">
+    <display-name lang="pt">FOX FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox HD">
+    <display-name lang="pt">Fox HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="pt">History</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="pt">History HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HISTORY FHD">
+    <display-name lang="pt">HISTORY FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="History 2">
+    <display-name lang="pt">History 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="History 2 HD">
+    <display-name lang="pt">History 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT Series HD">
+    <display-name lang="pt">TNT Series HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="pt">TNT Series</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20180907000000 -0300" stop="20180907010000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907010000 -0300" stop="20180907020000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907020000 -0300" stop="20180907030000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907030000 -0300" stop="20180907040000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907040000 -0300" stop="20180907050000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907050000 -0300" stop="20180907060000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907060000 -0300" stop="20180907070000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907070000 -0300" stop="20180907075500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907075500 -0300" stop="20180907085000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907085000 -0300" stop="20180907094500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907094500 -0300" stop="20180907104000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907104000 -0300" stop="20180907113500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907113500 -0300" stop="20180907123000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907123000 -0300" stop="20180907132500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907132500 -0300" stop="20180907142000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907142000 -0300" stop="20180907151500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907151500 -0300" stop="20180907161000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161000 -0300" stop="20180907170500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170500 -0300" stop="20180907180000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907180000 -0300" stop="20180907190000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907190000 -0300" stop="20180907200000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907200000 -0300" stop="20180907210000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907210000 -0300" stop="20180907220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907220000 -0300" stop="20180907230000 -0300" channel="AXN">
+    <title lang="pt">The Crossing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907230000 -0300" stop="20180908000000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907000000 -0300" stop="20180907010000 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907010000 -0300" stop="20180907020000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907020000 -0300" stop="20180907030000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907030000 -0300" stop="20180907040000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907040000 -0300" stop="20180907050000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907050000 -0300" stop="20180907060000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907060000 -0300" stop="20180907070000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907070000 -0300" stop="20180907075500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907075500 -0300" stop="20180907085000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907085000 -0300" stop="20180907094500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907094500 -0300" stop="20180907104000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907104000 -0300" stop="20180907113500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907113500 -0300" stop="20180907123000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907123000 -0300" stop="20180907132500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907132500 -0300" stop="20180907142000 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907142000 -0300" stop="20180907151500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907151500 -0300" stop="20180907161000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161000 -0300" stop="20180907170500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170500 -0300" stop="20180907180000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907180000 -0300" stop="20180907190000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907190000 -0300" stop="20180907200000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907200000 -0300" stop="20180907210000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907210000 -0300" stop="20180907220000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907220000 -0300" stop="20180907230000 -0300" channel="AXN HD">
+    <title lang="pt">The Crossing</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907230000 -0300" stop="20180908000000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907003500 -0300" stop="20180907012800 -0300" channel="Discovery Channel">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907012800 -0300" stop="20180907022200 -0300" channel="Discovery Channel">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907022200 -0300" stop="20180907031600 -0300" channel="Discovery Channel">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907031600 -0300" stop="20180907041000 -0300" channel="Discovery Channel">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907041000 -0300" stop="20180907050500 -0300" channel="Discovery Channel">
+    <title lang="pt">Casal Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907050500 -0300" stop="20180907054900 -0300" channel="Discovery Channel">
+    <title lang="pt">Tudo Por Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907054900 -0300" stop="20180907064400 -0300" channel="Discovery Channel">
+    <title lang="pt">Discovery na Escola: Grandes Invenções com Bill Nye</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907064400 -0300" stop="20180907073200 -0300" channel="Discovery Channel">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907073200 -0300" stop="20180907082000 -0300" channel="Discovery Channel">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907082000 -0300" stop="20180907090800 -0300" channel="Discovery Channel">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907090800 -0300" stop="20180907095600 -0300" channel="Discovery Channel">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907095600 -0300" stop="20180907104600 -0300" channel="Discovery Channel">
+    <title lang="pt">Casal Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907104600 -0300" stop="20180907111300 -0300" channel="Discovery Channel">
+    <title lang="pt">Controle de Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907111300 -0300" stop="20180907120300 -0300" channel="Discovery Channel">
+    <title lang="pt">Isolados no Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907120300 -0300" stop="20180907125300 -0300" channel="Discovery Channel">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907125300 -0300" stop="20180907134300 -0300" channel="Discovery Channel">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907134300 -0300" stop="20180907143500 -0300" channel="Discovery Channel">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907143500 -0300" stop="20180907152400 -0300" channel="Discovery Channel">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907152400 -0300" stop="20180907161200 -0300" channel="Discovery Channel">
+    <title lang="pt">Casal Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161200 -0300" stop="20180907170000 -0300" channel="Discovery Channel">
+    <title lang="pt">À Prova de Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170000 -0300" stop="20180907180000 -0300" channel="Discovery Channel">
+    <title lang="pt">Febre do Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907180000 -0300" stop="20180907182400 -0300" channel="Discovery Channel">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907182400 -0300" stop="20180907184800 -0300" channel="Discovery Channel">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907184800 -0300" stop="20180907193900 -0300" channel="Discovery Channel">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907193900 -0300" stop="20180907203000 -0300" channel="Discovery Channel">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907203000 -0300" stop="20180907211400 -0300" channel="Discovery Channel">
+    <title lang="pt">A Grande Família do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907211400 -0300" stop="20180907220400 -0300" channel="Discovery Channel">
+    <title lang="pt">Vida Remota</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907220400 -0300" stop="20180907225400 -0300" channel="Discovery Channel">
+    <title lang="pt">Nos Confins do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907225400 -0300" stop="20180907234500 -0300" channel="Discovery Channel">
+    <title lang="pt">Oficina de sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907234500 -0300" stop="20180908003500 -0300" channel="Discovery Channel">
+    <title lang="pt">Riquezas do Gelo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907003500 -0300" stop="20180907012800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907012800 -0300" stop="20180907022200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907022200 -0300" stop="20180907031600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907031600 -0300" stop="20180907041000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907041000 -0300" stop="20180907050500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Casal Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907050500 -0300" stop="20180907054900 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Tudo Por Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907054900 -0300" stop="20180907064400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Discovery na Escola: Grandes Invenções com Bill Nye</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907064400 -0300" stop="20180907073200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907073200 -0300" stop="20180907082000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907082000 -0300" stop="20180907090800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907090800 -0300" stop="20180907095600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907095600 -0300" stop="20180907104600 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Casal Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907104600 -0300" stop="20180907111300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Controle de Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907111300 -0300" stop="20180907120300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Isolados no Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907120300 -0300" stop="20180907125300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907125300 -0300" stop="20180907134300 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907134300 -0300" stop="20180907143500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907143500 -0300" stop="20180907152400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907152400 -0300" stop="20180907161200 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Casal Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161200 -0300" stop="20180907170000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">À Prova de Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170000 -0300" stop="20180907180000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Febre do Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907180000 -0300" stop="20180907182400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907182400 -0300" stop="20180907184800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907184800 -0300" stop="20180907193900 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907193900 -0300" stop="20180907203000 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907203000 -0300" stop="20180907211400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">A Grande Família do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907211400 -0300" stop="20180907220400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Vida Remota</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907220400 -0300" stop="20180907225400 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Nos Confins do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907225400 -0300" stop="20180907234500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Oficina de sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907234500 -0300" stop="20180908003500 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Riquezas do Gelo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907003500 -0300" stop="20180907012800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907012800 -0300" stop="20180907022200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907022200 -0300" stop="20180907031600 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907031600 -0300" stop="20180907041000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907041000 -0300" stop="20180907050500 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Casal Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907050500 -0300" stop="20180907054900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Tudo Por Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907054900 -0300" stop="20180907064400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Discovery na Escola: Grandes Invenções com Bill Nye</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907064400 -0300" stop="20180907073200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907073200 -0300" stop="20180907082000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907082000 -0300" stop="20180907090800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907090800 -0300" stop="20180907095600 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907095600 -0300" stop="20180907104600 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Casal Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907104600 -0300" stop="20180907111300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Controle de Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907111300 -0300" stop="20180907120300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Isolados no Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907120300 -0300" stop="20180907125300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907125300 -0300" stop="20180907134300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907134300 -0300" stop="20180907143500 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ilhados com Bear Grylls</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907143500 -0300" stop="20180907152400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Tarzan Americano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907152400 -0300" stop="20180907161200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Casal Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161200 -0300" stop="20180907170000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">À Prova de Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170000 -0300" stop="20180907180000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907180000 -0300" stop="20180907182400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907182400 -0300" stop="20180907184800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907184800 -0300" stop="20180907193900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907193900 -0300" stop="20180907203000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907203000 -0300" stop="20180907211400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">A Grande Família do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907211400 -0300" stop="20180907220400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Vida Remota</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907220400 -0300" stop="20180907225400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Nos Confins do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907225400 -0300" stop="20180907234500 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Oficina de sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907234500 -0300" stop="20180908003500 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Riquezas do Gelo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907004800 -0300" stop="20180907022400 -0300" channel="FOX FHD">
+    <title lang="pt">Minha Super Ex-Namorada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907022400 -0300" stop="20180907042700 -0300" channel="FOX FHD">
+    <title lang="pt">Uma Babá Quase Perfeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907042700 -0300" stop="20180907061000 -0300" channel="FOX FHD">
+    <title lang="pt">Abaixo o Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907061000 -0300" stop="20180907063400 -0300" channel="FOX FHD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907063400 -0300" stop="20180907070000 -0300" channel="FOX FHD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907070000 -0300" stop="20180907075000 -0300" channel="FOX FHD">
+    <title lang="pt">This Is Us</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907075000 -0300" stop="20180907092800 -0300" channel="FOX FHD">
+    <title lang="pt">Abc do Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907092800 -0300" stop="20180907110600 -0300" channel="FOX FHD">
+    <title lang="pt">Escrito nas Estrelas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110600 -0300" stop="20180907131500 -0300" channel="FOX FHD">
+    <title lang="pt">Cinco Anos de Noivado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907131500 -0300" stop="20180907133700 -0300" channel="FOX FHD">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907133700 -0300" stop="20180907140200 -0300" channel="FOX FHD">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140200 -0300" stop="20180907155200 -0300" channel="FOX FHD">
+    <title lang="pt">Minha Super Ex-Namorada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907155200 -0300" stop="20180907161600 -0300" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161600 -0300" stop="20180907164100 -0300" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907164100 -0300" stop="20180907170800 -0300" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170800 -0300" stop="20180907173300 -0300" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907173300 -0300" stop="20180907194200 -0300" channel="FOX FHD">
+    <title lang="pt">Percy Jackson e o Ladrão de Raios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907194200 -0300" stop="20180907200900 -0300" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907200900 -0300" stop="20180907203600 -0300" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907203600 -0300" stop="20180907210000 -0300" channel="FOX FHD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907210000 -0300" stop="20180907214000 -0300" channel="FOX FHD">
+    <title lang="pt">Como Treinar o Seu Dragão 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214000 -0300" stop="20180908001100 -0300" channel="FOX FHD">
+    <title lang="pt">Kung Fu Panda 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907004800 -0300" stop="20180907022400 -0300" channel="Fox HD">
+    <title lang="pt">Minha Super Ex-Namorada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907022400 -0300" stop="20180907042700 -0300" channel="Fox HD">
+    <title lang="pt">Uma Babá Quase Perfeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907042700 -0300" stop="20180907061000 -0300" channel="Fox HD">
+    <title lang="pt">Abaixo o Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907061000 -0300" stop="20180907063400 -0300" channel="Fox HD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907063400 -0300" stop="20180907070000 -0300" channel="Fox HD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907070000 -0300" stop="20180907075000 -0300" channel="Fox HD">
+    <title lang="pt">This Is Us</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907075000 -0300" stop="20180907092800 -0300" channel="Fox HD">
+    <title lang="pt">Abc do Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907092800 -0300" stop="20180907110600 -0300" channel="Fox HD">
+    <title lang="pt">Escrito nas Estrelas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110600 -0300" stop="20180907131500 -0300" channel="Fox HD">
+    <title lang="pt">Cinco Anos de Noivado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907131500 -0300" stop="20180907133700 -0300" channel="Fox HD">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907133700 -0300" stop="20180907140200 -0300" channel="Fox HD">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140200 -0300" stop="20180907155200 -0300" channel="Fox HD">
+    <title lang="pt">Minha Super Ex-Namorada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907155200 -0300" stop="20180907161600 -0300" channel="Fox HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161600 -0300" stop="20180907164100 -0300" channel="Fox HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907164100 -0300" stop="20180907170800 -0300" channel="Fox HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170800 -0300" stop="20180907173300 -0300" channel="Fox HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907173300 -0300" stop="20180907194200 -0300" channel="Fox HD">
+    <title lang="pt">Percy Jackson e o Ladrão de Raios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907194200 -0300" stop="20180907200900 -0300" channel="Fox HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907200900 -0300" stop="20180907203600 -0300" channel="Fox HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907203600 -0300" stop="20180907210000 -0300" channel="Fox HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907210000 -0300" stop="20180907214000 -0300" channel="Fox HD">
+    <title lang="pt">Como Treinar o Seu Dragão 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214000 -0300" stop="20180908001100 -0300" channel="Fox HD">
+    <title lang="pt">Kung Fu Panda 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907004800 -0300" stop="20180907022400 -0300" channel="Fox">
+    <title lang="pt">Minha Super Ex-Namorada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907022400 -0300" stop="20180907042700 -0300" channel="Fox">
+    <title lang="pt">Uma Babá Quase Perfeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907042700 -0300" stop="20180907061000 -0300" channel="Fox">
+    <title lang="pt">Abaixo o Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907061000 -0300" stop="20180907063400 -0300" channel="Fox">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907063400 -0300" stop="20180907070000 -0300" channel="Fox">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907070000 -0300" stop="20180907075000 -0300" channel="Fox">
+    <title lang="pt">This Is Us</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907075000 -0300" stop="20180907092800 -0300" channel="Fox">
+    <title lang="pt">Abc do Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907092800 -0300" stop="20180907110600 -0300" channel="Fox">
+    <title lang="pt">Escrito nas Estrelas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110600 -0300" stop="20180907131500 -0300" channel="Fox">
+    <title lang="pt">Cinco Anos de Noivado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907131500 -0300" stop="20180907133700 -0300" channel="Fox">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907133700 -0300" stop="20180907140200 -0300" channel="Fox">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140200 -0300" stop="20180907155200 -0300" channel="Fox">
+    <title lang="pt">Minha Super Ex-Namorada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907155200 -0300" stop="20180907161600 -0300" channel="Fox">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161600 -0300" stop="20180907164100 -0300" channel="Fox">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907164100 -0300" stop="20180907170800 -0300" channel="Fox">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170800 -0300" stop="20180907173300 -0300" channel="Fox">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907173300 -0300" stop="20180907194200 -0300" channel="Fox">
+    <title lang="pt">Percy Jackson e o Ladrão de Raios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907194200 -0300" stop="20180907200900 -0300" channel="Fox">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907200900 -0300" stop="20180907203600 -0300" channel="Fox">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907203600 -0300" stop="20180907210000 -0300" channel="Fox">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907210000 -0300" stop="20180907214000 -0300" channel="Fox">
+    <title lang="pt">Como Treinar o Seu Dragão 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214000 -0300" stop="20180908001100 -0300" channel="Fox">
+    <title lang="pt">Kung Fu Panda 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907003000 -0300" stop="20180907013000 -0300" channel="History">
+    <title lang="pt">Sugestões: A Ciência do Engano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907013000 -0300" stop="20180907023000 -0300" channel="History">
+    <title lang="pt">Contato Extraterrestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907023000 -0300" stop="20180907025200 -0300" channel="History">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907025200 -0300" stop="20180907031500 -0300" channel="History">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907031500 -0300" stop="20180907040000 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907040000 -0300" stop="20180907044500 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907044500 -0300" stop="20180907053000 -0300" channel="History">
+    <title lang="pt">Six</title>
+    <sub-title lang="pt">Esquadrão Antiterrorista</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907053000 -0300" stop="20180907060000 -0300" channel="History">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907060000 -0300" stop="20180907070000 -0300" channel="History">
+    <title lang="pt">Sugestões: A Ciência do Engano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907070000 -0300" stop="20180907080000 -0300" channel="History">
+    <title lang="pt">Contato Extraterrestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907080000 -0300" stop="20180907090000 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907090000 -0300" stop="20180907100000 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907100000 -0300" stop="20180907110000 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110000 -0300" stop="20180907113000 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907113000 -0300" stop="20180907120000 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907120000 -0300" stop="20180907130000 -0300" channel="History">
+    <title lang="pt">Sugestões: A Ciência do Engano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907130000 -0300" stop="20180907140000 -0300" channel="History">
+    <title lang="pt">Contato Extraterrestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140000 -0300" stop="20180907143000 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907143000 -0300" stop="20180907150000 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907150000 -0300" stop="20180907160000 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907160000 -0300" stop="20180907165500 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907165500 -0300" stop="20180907174500 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907174500 -0300" stop="20180907181000 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907181000 -0300" stop="20180907184000 -0300" channel="History">
+    <title lang="pt">Colecionadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907184000 -0300" stop="20180907191000 -0300" channel="History">
+    <title lang="pt">Colecionadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907191000 -0300" stop="20180907193200 -0300" channel="History">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907193200 -0300" stop="20180907195500 -0300" channel="History">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907195500 -0300" stop="20180907202300 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907202300 -0300" stop="20180907205000 -0300" channel="History">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907205000 -0300" stop="20180907214500 -0300" channel="History">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214500 -0300" stop="20180907224000 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907224000 -0300" stop="20180907233500 -0300" channel="History">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907233500 -0300" stop="20180908003000 -0300" channel="History">
+    <title lang="pt">Alienígenas do Passado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907003000 -0300" stop="20180907013000 -0300" channel="History HD">
+    <title lang="pt">Sugestões: A Ciência do Engano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907013000 -0300" stop="20180907023000 -0300" channel="History HD">
+    <title lang="pt">Contato Extraterrestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907023000 -0300" stop="20180907025200 -0300" channel="History HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907025200 -0300" stop="20180907031500 -0300" channel="History HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907031500 -0300" stop="20180907040000 -0300" channel="History HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907040000 -0300" stop="20180907044500 -0300" channel="History HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907044500 -0300" stop="20180907053000 -0300" channel="History HD">
+    <title lang="pt">Six</title>
+    <sub-title lang="pt">Esquadrão Antiterrorista</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907053000 -0300" stop="20180907060000 -0300" channel="History HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907060000 -0300" stop="20180907070000 -0300" channel="History HD">
+    <title lang="pt">Sugestões: A Ciência do Engano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907070000 -0300" stop="20180907080000 -0300" channel="History HD">
+    <title lang="pt">Contato Extraterrestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907080000 -0300" stop="20180907090000 -0300" channel="History HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907090000 -0300" stop="20180907100000 -0300" channel="History HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907100000 -0300" stop="20180907110000 -0300" channel="History HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110000 -0300" stop="20180907113000 -0300" channel="History HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907113000 -0300" stop="20180907120000 -0300" channel="History HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907120000 -0300" stop="20180907130000 -0300" channel="History HD">
+    <title lang="pt">Sugestões: A Ciência do Engano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907130000 -0300" stop="20180907140000 -0300" channel="History HD">
+    <title lang="pt">Contato Extraterrestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140000 -0300" stop="20180907143000 -0300" channel="History HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907143000 -0300" stop="20180907150000 -0300" channel="History HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907150000 -0300" stop="20180907160000 -0300" channel="History HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907160000 -0300" stop="20180907165500 -0300" channel="History HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907165500 -0300" stop="20180907174500 -0300" channel="History HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907174500 -0300" stop="20180907181000 -0300" channel="History HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907181000 -0300" stop="20180907184000 -0300" channel="History HD">
+    <title lang="pt">Colecionadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907184000 -0300" stop="20180907191000 -0300" channel="History HD">
+    <title lang="pt">Colecionadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907191000 -0300" stop="20180907193200 -0300" channel="History HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907193200 -0300" stop="20180907195500 -0300" channel="History HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907195500 -0300" stop="20180907202300 -0300" channel="History HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907202300 -0300" stop="20180907205000 -0300" channel="History HD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907205000 -0300" stop="20180907214500 -0300" channel="History HD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214500 -0300" stop="20180907224000 -0300" channel="History HD">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907224000 -0300" stop="20180907233500 -0300" channel="History HD">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907233500 -0300" stop="20180908003000 -0300" channel="History HD">
+    <title lang="pt">Alienígenas do Passado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907003000 -0300" stop="20180907013000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Sugestões: A Ciência do Engano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907013000 -0300" stop="20180907023000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Contato Extraterrestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907023000 -0300" stop="20180907025200 -0300" channel="HISTORY FHD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907025200 -0300" stop="20180907031500 -0300" channel="HISTORY FHD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907031500 -0300" stop="20180907040000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907040000 -0300" stop="20180907044500 -0300" channel="HISTORY FHD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907044500 -0300" stop="20180907053000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Six</title>
+    <sub-title lang="pt">Esquadrão Antiterrorista</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907053000 -0300" stop="20180907060000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907060000 -0300" stop="20180907070000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Sugestões: A Ciência do Engano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907070000 -0300" stop="20180907080000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Contato Extraterrestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907080000 -0300" stop="20180907090000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907090000 -0300" stop="20180907100000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907100000 -0300" stop="20180907110000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110000 -0300" stop="20180907113000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907113000 -0300" stop="20180907120000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907120000 -0300" stop="20180907130000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Sugestões: A Ciência do Engano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907130000 -0300" stop="20180907140000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Contato Extraterrestre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140000 -0300" stop="20180907143000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907143000 -0300" stop="20180907150000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907150000 -0300" stop="20180907160000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907160000 -0300" stop="20180907165500 -0300" channel="HISTORY FHD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907165500 -0300" stop="20180907174500 -0300" channel="HISTORY FHD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907174500 -0300" stop="20180907181000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907181000 -0300" stop="20180907184000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Colecionadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907184000 -0300" stop="20180907191000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Colecionadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907191000 -0300" stop="20180907193200 -0300" channel="HISTORY FHD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907193200 -0300" stop="20180907195500 -0300" channel="HISTORY FHD">
+    <title lang="pt">Quem dá Mais?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907195500 -0300" stop="20180907202300 -0300" channel="HISTORY FHD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907202300 -0300" stop="20180907205000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Trato Feito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907205000 -0300" stop="20180907214500 -0300" channel="HISTORY FHD">
+    <title lang="pt">Desafio Sob Fogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214500 -0300" stop="20180907224000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907224000 -0300" stop="20180907233500 -0300" channel="HISTORY FHD">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907233500 -0300" stop="20180908003000 -0300" channel="HISTORY FHD">
+    <title lang="pt">Alienígenas do Passado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907000300 -0300" stop="20180907003000 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907003000 -0300" stop="20180907013000 -0300" channel="History 2">
+    <title lang="pt">Segredos De Estado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907013000 -0300" stop="20180907020000 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907020000 -0300" stop="20180907030000 -0300" channel="History 2">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907030000 -0300" stop="20180907040000 -0300" channel="History 2">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907040000 -0300" stop="20180907050000 -0300" channel="History 2">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907050000 -0300" stop="20180907060000 -0300" channel="History 2">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907060000 -0300" stop="20180907064500 -0300" channel="History 2">
+    <title lang="pt">Segredos De Estado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907064500 -0300" stop="20180907073000 -0300" channel="History 2">
+    <title lang="pt">Mundos Perdidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907073000 -0300" stop="20180907075200 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907075200 -0300" stop="20180907081500 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907081500 -0300" stop="20180907083700 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907083700 -0300" stop="20180907090000 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907090000 -0300" stop="20180907094500 -0300" channel="History 2">
+    <title lang="pt">Segredos De Estado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907094500 -0300" stop="20180907103000 -0300" channel="History 2">
+    <title lang="pt">Mundos Perdidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907103000 -0300" stop="20180907110000 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110000 -0300" stop="20180907113000 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907113000 -0300" stop="20180907120000 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907120000 -0300" stop="20180907123000 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907123000 -0300" stop="20180907130000 -0300" channel="History 2">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907130000 -0300" stop="20180907140000 -0300" channel="History 2">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140000 -0300" stop="20180907150000 -0300" channel="History 2">
+    <title lang="pt">Segredos De Estado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907150000 -0300" stop="20180907160000 -0300" channel="History 2">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907160000 -0300" stop="20180907170000 -0300" channel="History 2">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170000 -0300" stop="20180907180000 -0300" channel="History 2">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907180000 -0300" stop="20180907190000 -0300" channel="History 2">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907190000 -0300" stop="20180907195500 -0300" channel="History 2">
+    <title lang="pt">O Código Jesus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907195500 -0300" stop="20180907205000 -0300" channel="History 2">
+    <title lang="pt">Mundos Perdidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907205000 -0300" stop="20180907214500 -0300" channel="History 2">
+    <title lang="pt">A História da Europa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214500 -0300" stop="20180907224000 -0300" channel="History 2">
+    <title lang="pt">A História da Europa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907224000 -0300" stop="20180907233500 -0300" channel="History 2">
+    <title lang="pt">O Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907233500 -0300" stop="20180908003000 -0300" channel="History 2">
+    <title lang="pt">O Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907000300 -0300" stop="20180907003000 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907003000 -0300" stop="20180907013000 -0300" channel="History 2 HD">
+    <title lang="pt">Segredos De Estado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907013000 -0300" stop="20180907020000 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907020000 -0300" stop="20180907030000 -0300" channel="History 2 HD">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907030000 -0300" stop="20180907040000 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907040000 -0300" stop="20180907050000 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907050000 -0300" stop="20180907060000 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907060000 -0300" stop="20180907064500 -0300" channel="History 2 HD">
+    <title lang="pt">Segredos De Estado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907064500 -0300" stop="20180907073000 -0300" channel="History 2 HD">
+    <title lang="pt">Mundos Perdidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907073000 -0300" stop="20180907075200 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907075200 -0300" stop="20180907081500 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907081500 -0300" stop="20180907083700 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907083700 -0300" stop="20180907090000 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907090000 -0300" stop="20180907094500 -0300" channel="History 2 HD">
+    <title lang="pt">Segredos De Estado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907094500 -0300" stop="20180907103000 -0300" channel="History 2 HD">
+    <title lang="pt">Mundos Perdidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907103000 -0300" stop="20180907110000 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110000 -0300" stop="20180907113000 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907113000 -0300" stop="20180907120000 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907120000 -0300" stop="20180907123000 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907123000 -0300" stop="20180907130000 -0300" channel="History 2 HD">
+    <title lang="pt">Planeta Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907130000 -0300" stop="20180907140000 -0300" channel="History 2 HD">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140000 -0300" stop="20180907150000 -0300" channel="History 2 HD">
+    <title lang="pt">Segredos De Estado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907150000 -0300" stop="20180907160000 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907160000 -0300" stop="20180907170000 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170000 -0300" stop="20180907180000 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907180000 -0300" stop="20180907190000 -0300" channel="History 2 HD">
+    <title lang="pt">Projetos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907190000 -0300" stop="20180907195500 -0300" channel="History 2 HD">
+    <title lang="pt">O Código Jesus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907195500 -0300" stop="20180907205000 -0300" channel="History 2 HD">
+    <title lang="pt">Mundos Perdidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907205000 -0300" stop="20180907214500 -0300" channel="History 2 HD">
+    <title lang="pt">A História da Europa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214500 -0300" stop="20180907224000 -0300" channel="History 2 HD">
+    <title lang="pt">A História da Europa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907224000 -0300" stop="20180907233500 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907233500 -0300" stop="20180908003000 -0300" channel="History 2 HD">
+    <title lang="pt">O Universo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907004300 -0300" stop="20180907012700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907012700 -0300" stop="20180907021200 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907021200 -0300" stop="20180907025300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907025300 -0300" stop="20180907033800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907033800 -0300" stop="20180907042200 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907042200 -0300" stop="20180907050500 -0300" channel="TNT Series HD">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907050500 -0300" stop="20180907054700 -0300" channel="TNT Series HD">
+    <title lang="pt">The Astronaut Wives Club</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907054700 -0300" stop="20180907060000 -0300" channel="TNT Series HD">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907060000 -0300" stop="20180907061100 -0300" channel="TNT Series HD">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907061100 -0300" stop="20180907063900 -0300" channel="TNT Series HD">
+    <title lang="pt">Mapa do Pop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907063900 -0300" stop="20180907072200 -0300" channel="TNT Series HD">
+    <title lang="pt">The Astronaut Wives Club</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907072200 -0300" stop="20180907080700 -0300" channel="TNT Series HD">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907080700 -0300" stop="20180907085000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907085000 -0300" stop="20180907093400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907093400 -0300" stop="20180907102100 -0300" channel="TNT Series HD">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907102100 -0300" stop="20180907110500 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110500 -0300" stop="20180907115000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907115000 -0300" stop="20180907123400 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907123400 -0300" stop="20180907131800 -0300" channel="TNT Series HD">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907131800 -0300" stop="20180907140100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140100 -0300" stop="20180907144600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907144600 -0300" stop="20180907153100 -0300" channel="TNT Series HD">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907153100 -0300" stop="20180907161800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161800 -0300" stop="20180907170500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170500 -0300" stop="20180907174900 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907174900 -0300" stop="20180907183400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907183400 -0300" stop="20180907190300 -0300" channel="TNT Series HD">
+    <title lang="pt">Mapa do Pop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907190300 -0300" stop="20180907192900 -0300" channel="TNT Series HD">
+    <title lang="pt">Mapa do Pop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907192900 -0300" stop="20180907201400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907201400 -0300" stop="20180907205900 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907205900 -0300" stop="20180907214500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214500 -0300" stop="20180907223000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907223000 -0300" stop="20180907231300 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907231300 -0300" stop="20180907235700 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907235700 -0300" stop="20180908004800 -0300" channel="TNT Series HD">
+    <title lang="pt">4 Blocks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907004300 -0300" stop="20180907012700 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907012700 -0300" stop="20180907021200 -0300" channel="TNT Series">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907021200 -0300" stop="20180907025300 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907025300 -0300" stop="20180907033800 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907033800 -0300" stop="20180907042200 -0300" channel="TNT Series">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907042200 -0300" stop="20180907050500 -0300" channel="TNT Series">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907050500 -0300" stop="20180907054700 -0300" channel="TNT Series">
+    <title lang="pt">The Astronaut Wives Club</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907054700 -0300" stop="20180907060000 -0300" channel="TNT Series">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907060000 -0300" stop="20180907061100 -0300" channel="TNT Series">
+    <title lang="pt">Hollywood One on One</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907061100 -0300" stop="20180907063900 -0300" channel="TNT Series">
+    <title lang="pt">Mapa do Pop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907063900 -0300" stop="20180907072200 -0300" channel="TNT Series">
+    <title lang="pt">The Astronaut Wives Club</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907072200 -0300" stop="20180907080700 -0300" channel="TNT Series">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907080700 -0300" stop="20180907085000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907085000 -0300" stop="20180907093400 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907093400 -0300" stop="20180907102100 -0300" channel="TNT Series">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907102100 -0300" stop="20180907110500 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907110500 -0300" stop="20180907115000 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907115000 -0300" stop="20180907123400 -0300" channel="TNT Series">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907123400 -0300" stop="20180907131800 -0300" channel="TNT Series">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907131800 -0300" stop="20180907140100 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907140100 -0300" stop="20180907144600 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907144600 -0300" stop="20180907153100 -0300" channel="TNT Series">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907153100 -0300" stop="20180907161800 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907161800 -0300" stop="20180907170500 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907170500 -0300" stop="20180907174900 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907174900 -0300" stop="20180907183400 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907183400 -0300" stop="20180907190300 -0300" channel="TNT Series">
+    <title lang="pt">Mapa do Pop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907190300 -0300" stop="20180907192900 -0300" channel="TNT Series">
+    <title lang="pt">Mapa do Pop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907192900 -0300" stop="20180907201400 -0300" channel="TNT Series">
+    <title lang="pt">The Closer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907201400 -0300" stop="20180907205900 -0300" channel="TNT Series">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907205900 -0300" stop="20180907214500 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907214500 -0300" stop="20180907223000 -0300" channel="TNT Series">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907223000 -0300" stop="20180907231300 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907231300 -0300" stop="20180907235700 -0300" channel="TNT Series">
+    <title lang="pt">The Mentalist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180907235700 -0300" stop="20180908004800 -0300" channel="TNT Series">
+    <title lang="pt">4 Blocks</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
